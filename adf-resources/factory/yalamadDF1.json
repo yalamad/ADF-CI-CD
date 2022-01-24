@@ -1,0 +1,9 @@
+{
+	"name": "yalamadDF1",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de0b4170-1e6c-42e6-bc52-bc936d0b368f",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
